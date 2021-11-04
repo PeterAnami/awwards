@@ -1,0 +1,104 @@
+body {
+  font-size: 20px;
+  background-color: #2E3847;
+  color: #c26a06;
+}
+img {
+  width: 100%;
+}
+.project {
+  margin-bottom: 2rem;
+}
+.profile_picture {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  align-items: center;
+  text-align: center;
+}
+.btn-success,.btn-danger {
+  width: 3cm !important;
+}
+.banner {
+  background-image: url('https://res.cloudinary.com/dbos9xidr/image/upload/v1626728218/img_awards_banner_jcnk8r.jpg');
+  height: 60vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding-top: 10%;
+}
+
+.link {
+  margin: 1rem 0 1rem 0 !important;
+}
+.live-link {
+  background-color: #062036;
+  color: white;
+  border-radius: 8px;
+}
+.title {
+  color: #4888BE;
+}
+th {
+  background-color: #021025 !important;
+}
+.average,.user,.content,.design,.usability {
+  background-color: #032541 !important;
+}
+
+.username {
+  color: #058F03;
+}
+nav {
+  background-color: #021025 !important;
+  color: #058F03 !important;
+  height: 8vh !important;
+  font-size: 25;
+  padding-top: 1vh;
+}
+.footer {
+  background-color: #021025 !important;
+}
+li a {
+  color: #449D44 !important;
+}
+h2,h1 {
+  color: #449D44;
+}
+.img-thumbnail {
+  cursor: pointer;
+  border-radius: 6px;
+}
+.gal-item {
+  float: left !important;
+}
+.img-thumbnail:hover {
+  opacity: 0.9;
+  background-color: #295168;
+}
+.project-img {
+  width: 100%;
+  height: auto;
+}
+.link:hover {
+  color: #021025;
+  background-color: #c26a06;
+  font-weight: 900;
+}
+.footer {
+  color: #449D44 !important;
+  margin-top: 2rem !important;
+}
+.footer a {
+  color: #449D44 !important;
+}
+
+@media (max-width: 1000px) {
+  nav {
+    height: auto !important;
+    padding-top: 1vh;
+  }
+  
+}
