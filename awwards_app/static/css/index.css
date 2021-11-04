@@ -1,7 +1,7 @@
 body {
   font-size: 20px;
-  background-color: #2E3847;
-  color: #c26a06;
+  background-color: #b7d0f5;
+  color: #e4ded7;
 }
 img {
   width: 100%;
@@ -34,7 +34,7 @@ img {
   margin: 1rem 0 1rem 0 !important;
 }
 .live-link {
-  background-color: #062036;
+  background-color: #cfdce7;
   color: white;
   border-radius: 8px;
 }
@@ -45,14 +45,14 @@ th {
   background-color: #021025 !important;
 }
 .average,.user,.content,.design,.usability {
-  background-color: #032541 !important;
+  background-color: #828e97 !important;
 }
 
 .username {
-  color: #058F03;
+  color: #cadbc9;
 }
 nav {
-  background-color: #021025 !important;
+  background-color: #b8d1f8 !important;
   color: #058F03 !important;
   height: 8vh !important;
   font-size: 25;
@@ -62,10 +62,10 @@ nav {
   background-color: #021025 !important;
 }
 li a {
-  color: #449D44 !important;
+  color: #cff7cf !important;
 }
 h2,h1 {
-  color: #449D44;
+  color: #c2e5c2;
 }
 .img-thumbnail {
   cursor: pointer;
@@ -76,7 +76,7 @@ h2,h1 {
 }
 .img-thumbnail:hover {
   opacity: 0.9;
-  background-color: #295168;
+  background-color: #9dc6dd;
 }
 .project-img {
   width: 100%;
@@ -84,15 +84,15 @@ h2,h1 {
 }
 .link:hover {
   color: #021025;
-  background-color: #c26a06;
+  background-color: #5e5750;
   font-weight: 900;
 }
 .footer {
-  color: #449D44 !important;
+  color: #adb8ad !important;
   margin-top: 2rem !important;
 }
 .footer a {
-  color: #449D44 !important;
+  color: #bed4be !important;
 }
 
 @media (max-width: 1000px) {
